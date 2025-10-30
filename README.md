@@ -1,5 +1,5 @@
 # D-FLIPDLOP-NEGEDGE
-
+# DATE : 30-10-2025
 **AIM:**
 
 To implement  D flipflop using verilog and validating their functionality using their functional tables
